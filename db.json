@@ -1,0 +1,102 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama": "dede",
+          "alamat": "rajeg",
+          "umur": 24,
+          "nohp": "01234564897"
+        },
+        {
+          "id": 2,
+          "nama": "dara",
+          "alamat": "rajeg",
+          "umur": 24,
+          "nohp": "01234564897"
+        },
+        {
+          "id": 3,
+          "nama": "sun",
+          "alamat": "rajeg",
+          "umur": 24,
+          "nohp": "01234564897"
+        },
+        {
+          "id": 4,
+          "nama": "sun",
+          "alamat": "rajeg",
+          "umur": 24,
+          "nohp": "01234564897"
+        },
+        {
+          "id": 5,
+          "nama": "sun",
+          "alamat": "rajeg",
+          "umur": 24,
+          "nohp": "01234564897"
+        },
+        {
+          "id": 6,
+          "nama": "sun",
+          "alamat": "rajeg",
+          "umur": 24,
+          "nohp": "01234564897"
+        },
+        {
+          "id": 7,
+          "nama": "sun",
+          "alamat": "rajeg",
+          "umur": 24,
+          "nohp": "01234564897"
+        },
+        {
+          "id": 8,
+          "nama": "sun",
+          "alamat": "rajeg",
+          "umur": 24,
+          "nohp": "01234564897"
+        },
+        {
+          "id": 9,
+          "nama": "sun",
+          "alamat": "rajeg",
+          "umur": 24,
+          "nohp": "01234564897"
+        },
+        {
+          "id": 10,
+          "nama": "sun",
+          "alamat": "rajeg",
+          "umur": 24,
+          "nohp": "01234564897"
+        },
+        {
+          "id": 11,
+          "nama": "sun",
+          "alamat": "rajeg",
+          "umur": 24,
+          "nohp": "01234564897"
+        },
+        {
+          "id": 12,
+          "nama": "sun",
+          "alamat": "rajeg",
+          "umur": 24,
+          "nohp": "01234564897"
+        },
+        {
+          "id": 13,
+          "nama": "sun",
+          "alamat": "rajeg",
+          "umur": 24,
+          "nohp": "01234564897"
+        },
+        {
+          "id": 14,
+          "nama": "sun",
+          "alamat": "rajeg",
+          "umur": 24,
+          "nohp": "01234564897"
+        }
+      ]
+}
